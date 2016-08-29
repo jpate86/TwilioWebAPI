@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwilioTest", "TwilioTest\TwilioTest.csproj", "{4F9ABAD1-66BD-4C4C-ADBA-8A48354EBA7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLayer", "DataLayer\DataLayer.csproj", "{49CB11DE-5A78-4328-8338-713791C283BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F9ABAD1-66BD-4C4C-ADBA-8A48354EBA7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F9ABAD1-66BD-4C4C-ADBA-8A48354EBA7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F9ABAD1-66BD-4C4C-ADBA-8A48354EBA7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F9ABAD1-66BD-4C4C-ADBA-8A48354EBA7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49CB11DE-5A78-4328-8338-713791C283BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49CB11DE-5A78-4328-8338-713791C283BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49CB11DE-5A78-4328-8338-713791C283BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49CB11DE-5A78-4328-8338-713791C283BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://pelmore.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = TwilioTest\\TwilioTest.csproj
+		SccProjectName1 = TwilioTest
+		SccLocalPath1 = TwilioTest
+		SccProjectUniqueName2 = DataLayer\\DataLayer.csproj
+		SccProjectName2 = DataLayer
+		SccLocalPath2 = DataLayer
+	EndGlobalSection
+EndGlobal
