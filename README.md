@@ -1,2 +1,2 @@
 # TwilioWebAPI
-Web API project to test various Twilio services.
+Web API project to test various Twilio services.  This project is dependent on having a publicly accessible domain name or IP address so that Twilio can post data to the application.  Currently the function this server provides is as a new message listener only.  For example, set up an SMS service in Twilio, and set this application's public service endpoint as your new message listener.  Notifications for new messages to your Twilio service will be sent to this application, where you could then perform any type of processing you want.
